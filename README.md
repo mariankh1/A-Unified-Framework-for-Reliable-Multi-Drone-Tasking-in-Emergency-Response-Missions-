@@ -9,6 +9,9 @@ To execute code:
 python UAVSwarmparam.py x1 x2 y1 y2
 
 
+Videos: https://www.youtube.com/channel/UC71ZzZ8PYTiI0D1mr8WykYA
+Project website http://www.kios.ucy.ac.cy/swifters/
+
 The project has received funding from the European Union Civil Protection  Call for proposals 2017 for prevention and preparedness projects in the field of civil protection and marine pollution under grant agreement – 783299 – SWIFTERS.
 
 © 2018 KIOS Research and Innovation Center of Excellence 
