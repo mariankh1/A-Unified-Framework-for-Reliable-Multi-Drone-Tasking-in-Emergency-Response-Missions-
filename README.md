@@ -4,3 +4,6 @@ A unified framework is presented for coordinated multi-drone tasking in emergenc
 
 ![Screenshot](experi.png)
 
+The project has received funding from the European Union Civil Protection  Call for proposals 2017 for prevention and preparedness projects in the field of civil protection and marine pollution under grant agreement – 783299 – SWIFTERS.
+
+© 2018 KIOS Research and Innovation Center of Excellence 
